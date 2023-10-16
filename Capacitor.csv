@@ -1,0 +1,5 @@
+name,enabled,n_phases,n_conds,base_freq,terminal1,terminal2,connection,num_steps,spec_type,kvar,kv,c,r,xl
+c83,true,3,3,60,83,,wye,1,kvar,[ 600 ],4.16,[ 0.00009196730716755551 ],[ 0 ],[ 0 ]
+c88a,true,1,1,60,88.1,,wye,1,kvar,[ 50 ],2.402,[ 0.00002298756019360035 ],[ 0 ],[ 0 ]
+c90b,true,1,1,60,90.2,,wye,1,kvar,[ 50 ],2.402,[ 0.00002298756019360035 ],[ 0 ],[ 0 ]
+c92c,true,1,1,60,92.3,,wye,1,kvar,[ 50 ],2.402,[ 0.00002298756019360035 ],[ 0 ],[ 0 ]

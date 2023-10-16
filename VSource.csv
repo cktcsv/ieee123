@@ -1,0 +1,2 @@
+name,enabled,n_phases,n_conds,base_freq,terminal1,terminal2,base_kv,per_unit,angle,src_frequency,z_spec_type,mva_sc3,mva_sc1,i_sc3,i_sc1,r1,x1,r2,x2,r0,x0,x1r1,x0r0,scan_type,sequence_type,spectrum
+source,true,3,3,60,150,,4.16,1,0,60,z1_z0,173056,173056,24017771.19828843,24017771.198288433,0,0.0001,0,0.0001,0,0.0001,4,3,positive,positive,defaultvsource
