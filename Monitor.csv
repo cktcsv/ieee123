@@ -1,0 +1,2 @@
+name,enabled,element,terminal,value,sequence,magnitude,pos_seq,residual,p_polar
+mon1,true,line.l99,1,voltage_current,false,false,false,false,true

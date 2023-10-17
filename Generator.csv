@@ -1,0 +1,2 @@
+name,enabled,n_phases,n_conds,base_freq,terminal,kv,kw,pf,model,connection,duty,fixed,v_min_pu,v_max_pu,max_kvar,min_kvar,balanced,spectrum
+2mwgen,true,3,4,60,450,4.16,2000,1,kw_pf,wye,SolarRamp,false,0.9,1.1,0,0,false,defaultgen
